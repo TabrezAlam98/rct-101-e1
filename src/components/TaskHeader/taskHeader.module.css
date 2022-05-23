@@ -1,3 +1,10 @@
 .taskHeader {
   /* Sample */
+ background-color: green;
+ height: 100px;
+ margin-top: -20px;
+
+}
+h1{
+text-align: center;
 }
